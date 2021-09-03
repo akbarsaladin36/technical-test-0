@@ -1,8 +1,8 @@
-<h1 align='center'>Technical Test Zicare - CRUD Project</h1>
+<h1 align='center'>Technical Test - CRUD Project</h1>
 
 ## About The Project
 
-Project ini dibuat dalam rangka menyelesaikan technical test di Zicare. Project ini menggunakan library Javascript yaitu Vue.js sebagai frontend dan framework PHP yaitu Phalcon Framework sebagai backend.  
+Project ini dibuat dalam rangka menyelesaikan technical test. Project ini menggunakan library Javascript yaitu Vue.js sebagai frontend dan framework PHP yaitu Phalcon Framework sebagai backend.  
 
 ## Built With
 
@@ -22,7 +22,7 @@ You can see the API documentation [`here`](https://documenter.getpostman.com/vie
 
 ## Getting Started (Activating Vue JS Server)
 
-1. Download this Project or you can type `git clone https://github.com/akbarsaladin36/xtickitz-indonesian-booking-website.git`
+1. Download this Project or you can type `git clone https://github.com/akbarsaladin36/technical-test-0.git`
 2. Open app's directory in CMD or Terminal
 3. Change your directory to "vue-frontend" folder in terminal
 4. Type `npm install` or `yarn install`
@@ -30,7 +30,7 @@ You can see the API documentation [`here`](https://documenter.getpostman.com/vie
 
 ## Getting Started (Activating Phalcon PHP Framework Backend Server)
 
-1. Download this Project or you can type `git clone https://github.com/akbarsaladin36/xtickitz-indonesian-booking-website.git`
+1. Download this Project or you can type `git clone https://github.com/akbarsaladin36/technical-test-0.git`
 2. Open app's directory in CMD or Terminal
 3. Type `phalcon serve` or `phalcon server`
 
